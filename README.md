@@ -242,8 +242,8 @@ This dashboard was built to provide **real-time insights** into UPI payment oper
 ✅ Top merchant: XYZ Retail with 50K daily transactions
 '''
 The Dashboard preview
- IMAGE 1 : https://github.com/vedant23nanoti-spec/UPI-TRANSACTION-ANALYSIS/blob/main/Snapshot%20UPI%201%20.png
-  IMAGE 2 : https://github.com/vedant23nanoti-spec/UPI-TRANSACTION-ANALYSIS/tree/main
+  https://github.com/vedant23nanoti-spec/UPI-TRANSACTION-ANALYSIS/blob/main/Snapshot%20UPI%201%20.png
+ https://github.com/vedant23nanoti-spec/UPI-TRANSACTION-ANALYSIS/tree/main
 
 
 
